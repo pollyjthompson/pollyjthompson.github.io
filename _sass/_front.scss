@@ -1,0 +1,35 @@
+blockquote {
+  margin-inline-start: 0;
+}
+
+h2{
+  font-family: $font-stack-subheader;
+  padding: 0;
+  margin: 0;
+}
+
+h4{
+  margin-bottom: 5px;
+}
+
+.recent-posts-tartarus, .recent-posts-mendokusai{
+  p{
+    margin-top: 0;
+  }
+}
+
+.recent-posts-tartarus{
+  margin-top: 30px;
+}
+
+.recent-posts-mendokusai{
+  margin-bottom: 30px;
+}
+
+.post-snippet{
+  padding: 20px 0;
+}
+
+.read-more{
+  font-size: 18px;
+}

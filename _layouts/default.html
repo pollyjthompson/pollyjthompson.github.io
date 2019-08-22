@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta author="Polly Thompson" />
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/style.css" />
+    {% feed_meta %}
+    {% seo %}
+    <link href="https://fonts.googleapis.com/css?family=Taviraj&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Questrial&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    {% include header.html %}
+    <div class="wrapper">
+      {{ content }}
+    </div>
+    {% include footer.html %}
+    <script type="text/javascript" src="/assets/js/global.js"></script>
+  </body>
+</html>

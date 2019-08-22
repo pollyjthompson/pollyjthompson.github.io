@@ -1,0 +1,64 @@
+.archives > h1{
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.transition{
+  transition: all 1s ease-in-out;
+}
+
+
+.archive-list, .recent-posts{
+  padding: 20px 0;
+  li{
+    position: relative;
+    .accordion-title{
+      cursor: pointer;
+      &:before, &:after{
+        content:'';
+        position: absolute;
+        background-color: $color_grey_very_dark;
+        width: 3px;
+        height: 9px;
+        right: 0;
+        top: 14px;
+        transition: all 1s ease-in-out;
+      }
+      &:before{
+        transform: translate(-2px, 0) rotate(-45deg);
+      }
+      &:after{
+        transform: translate(2px, 0) rotate(45deg);
+      }
+    }
+    .accordion-title-display{
+      &:before{
+        transform: translate(2px, 0) rotate(-45deg);
+      }
+      &:after{
+        transform: translate(-2px, 0) rotate(45deg);
+      }
+    }
+    .accordion-leaf{
+      display: none;
+    }
+    .accordion-leaf-display{
+      display:block;
+      li:first-child{
+        padding-top: 10px;
+      }
+    }
+
+  }
+  h4{
+    margin: 5px 0 10px;
+  }
+  span{
+    font-size: 16px;
+    font-style: italic;
+  }
+  p{
+    font-size: 16px;
+    margin-bottom: 0;
+  }
+}
