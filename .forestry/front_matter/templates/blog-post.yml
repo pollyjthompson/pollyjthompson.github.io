@@ -17,4 +17,4 @@ fields:
       format: markdown
   label: Body
 pages:
-- _posts/this-is-a-test-post.md
+- _posts/2019-08-22-this-is-a-test-post.md
