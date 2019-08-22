@@ -1,0 +1,40 @@
+.post{
+  ul{
+    padding-inline-end:40px;
+    padding-inline-start: 20px;
+    li{
+      padding-left: 5px;
+      span{
+        font-size: 18px;
+      }
+    }
+  }
+  &.post-tartarus{
+    ul{
+      list-style-type: lower-greek;
+    }
+  }
+
+  &.post-mendokusai{
+    ul{
+      list-style-type: katakana;
+    }
+  }
+}
+.PageNavigation {
+  font-size: 16px;
+  display: block;
+  width: auto;
+  overflow: hidden;
+}
+
+.PageNavigation a {
+  display: block;
+  width: 50%;
+  float: left;
+  margin: 1em 0;
+}
+
+.PageNavigation .next {
+  text-align: right;
+}
