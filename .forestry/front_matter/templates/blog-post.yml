@@ -2,6 +2,14 @@
 label: Blog post
 hide_body: false
 fields:
+- name: layout
+  type: text
+  config:
+    required: true
+  default: default
+  label: Layout
+  description: Unless you're sure you need to change it, leave this as the default
+    layout
 - name: title
   type: text
   config:
@@ -16,5 +24,9 @@ fields:
     schema:
       format: markdown
   label: Body
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
 pages:
 - _posts/2019-08-25-blogging.md
