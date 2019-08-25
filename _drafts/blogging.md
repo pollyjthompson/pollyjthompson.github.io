@@ -1,0 +1,28 @@
+---
+title: Blogging
+body: "A big part of me is very much resistant to writing a blog. Although a few friends
+  with interesting lives and/or ideas write blogs that I genuinely enjoy reading,
+  there’s a pretty big risk of a personal blog becoming self-indulgent, cringey, and
+  preachy (and a gold-mine for anyone who ever wants to mock you). That is especially
+  true here, as I’m writing this more for myself than to keep people updated on what
+  I’m up to. The aim is for it to serve as a journal/ record of my current thoughts,
+  so I can go back and read it at some point in the future. \n\nI’ve kept a journal
+  on and off throughout various stages of my life, and then promptly gone back and
+  destroyed them at first re-reading.  My longest streak was around when I was 9-10,
+  and I distinctly remember starting one at Mum’s suggestion when I was made head
+  girl. That lasted all of two entries until the smugness wore off and the self-doubt
+  kicked in. But Mum was right and I wish I had a record of that period of my life,
+  and most periods before and after. \n\nHaving realised that, I have kept a journal
+  for the last year, but with gaps of months between some entries. I have actually
+  enjoyed reading back those entries despite the cringe, remembering the minutia of
+  my daily life (shout-out those rose-tinted glasses), and have found the process
+  of writing itself can be quite cathartic. I’m hoping that the element of accountability
+  from publishing these blogs will help me actually keep it up this year.\n\nI am
+  cautious of putting out a journal on the internet, and the nature of my job means
+  I have to be pretty careful what I say. That probably means this won’t contain too
+  much about what I’m up to day to day, but more about what I’ve been thinking/ talking/
+  reading about recently. It will inevitably be totally self-indulgent, cringey, and
+  preachy. It might prompt some interesting conversations though, so if you are reading,
+  let me know. Just don’t be too harsh yet, I’m new to this. \n\n"
+
+---
