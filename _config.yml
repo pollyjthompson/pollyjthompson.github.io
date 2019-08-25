@@ -13,15 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jonny Spicer | Thoughts From Tartarus
-email: spicerjonny@gmail.com
+title: Polly Thompson
+email: pollyjthompson22@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Jonny Spicer's personal website and blog, where he writes about
-  mental health, technology, esports, but primarily trash.
+  
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://jonnyspicer.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: junior_devloper
-github_username:  jonnyspicer
+url: "http://polly.gg" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  pollyjthompson
+repository: pollyjthompson/pollyjthomspon.github.io
 
 sass:
  sass_dir: _sass
