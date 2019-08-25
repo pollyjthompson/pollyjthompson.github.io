@@ -15,15 +15,6 @@ fields:
   config:
     required: false
   label: Title
-- name: body
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Body
 - name: tags
   type: tag_list
   default: []
