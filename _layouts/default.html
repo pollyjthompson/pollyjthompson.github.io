@@ -20,5 +20,8 @@
     </div>
     {% include footer.html %}
     <script type="text/javascript" src="/assets/js/global.js"></script>
+    {% if jekyll.environment == 'production' %}
+      {% include analytics.html %}
+    {% endif %}
   </body>
 </html>
