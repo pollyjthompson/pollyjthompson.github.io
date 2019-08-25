@@ -32,7 +32,7 @@ collections:
   blog_names:
     output: true
 
-permalink: /:categories/:year/:month/:day/:title
+permalink: /:year/:month/:day/:title
 
 defaults:
   - scope:
