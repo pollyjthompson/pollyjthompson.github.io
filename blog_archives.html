@@ -4,10 +4,9 @@ title: Blog Archives
 permalink: /blog/archives
 ---
 <div class="archives">
-  <h1>{{ page.title }}</h1>
 
   <ul class="archive-list">
-    {% for post in site.categories.mendokusai %}
+    {% for post in site.posts %}
       {% assign currentdate = post.date | date: "%B %Y" %}
       {% if currentdate != date %}
         {% unless forloop.first %}</ul>{% endunless %}
