@@ -20,4 +20,5 @@ fields:
   default: []
   label: Tags
 pages:
+- _posts/new-year-new-me.md
 - _posts/2019-08-25-blogging.md
