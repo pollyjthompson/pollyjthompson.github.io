@@ -20,6 +20,7 @@ fields:
   default: []
   label: Tags
 pages:
+- _posts/honesty-a-ramble.md
 - _posts/2019-08-30-priorities.md
 - _posts/hell.md
 - _posts/comfort-zone.md
