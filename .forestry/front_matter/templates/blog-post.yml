@@ -20,6 +20,7 @@ fields:
   default: []
   label: Tags
 pages:
+- _posts/judgy.md
 - _posts/role-models.md
 - _posts/pride.md
 - _posts/honesty-a-ramble.md
