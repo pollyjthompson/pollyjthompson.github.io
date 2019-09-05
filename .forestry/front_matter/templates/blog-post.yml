@@ -20,7 +20,7 @@ fields:
   default: []
   label: Tags
 pages:
-- _posts/learning-french.md
+- _posts/2019-09-05-learning-french.md
 - _posts/2019-09-04-porridge-and-soup.md
 - _posts/judgy.md
 - _posts/role-models.md
