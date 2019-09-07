@@ -20,7 +20,7 @@ fields:
   default: []
   label: Tags
 pages:
-- _posts/2019-09-07-challenges.md
+- _posts/challenges.md
 - _posts/2019-09-06-pomegranates.md
 - _posts/2019-09-05-learning-french.md
 - _posts/2019-09-04-porridge-and-soup.md
