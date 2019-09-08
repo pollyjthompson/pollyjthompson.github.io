@@ -20,7 +20,7 @@ fields:
   default: []
   label: Tags
 pages:
-- _posts/13-reasons-why-s3.md
+- _posts/2019-09-08-13-reasons-why-s3.md
 - _posts/challenges.md
 - _posts/2019-09-06-pomegranates.md
 - _posts/2019-09-05-learning-french.md
