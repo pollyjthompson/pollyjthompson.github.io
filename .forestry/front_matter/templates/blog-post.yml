@@ -20,6 +20,7 @@ fields:
   default: []
   label: Tags
 pages:
+- _posts/take-two.md
 - _posts/to-do-lists.md
 - _posts/13-reasons-why-s3.md
 - _posts/challenges.md
