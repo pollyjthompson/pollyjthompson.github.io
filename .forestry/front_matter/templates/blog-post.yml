@@ -20,7 +20,7 @@ fields:
   default: []
   label: Tags
 pages:
-- _posts/9-11.md
+- _posts/2019-09-11-9-11.md
 - _posts/2019-09-10-take-two.md
 - _posts/to-do-lists.md
 - _posts/13-reasons-why-s3.md
