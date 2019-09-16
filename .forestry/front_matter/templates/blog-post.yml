@@ -20,6 +20,7 @@ fields:
   default: []
   label: Tags
 pages:
+- _posts/running-downhill.md
 - _posts/2019-09-15-coconut-milk.md
 - _posts/2019-09-15-arrival-fallacy.md
 - _posts/2019-09-12-photo-books.md
