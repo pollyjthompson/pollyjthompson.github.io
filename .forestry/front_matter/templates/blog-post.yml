@@ -20,7 +20,7 @@ fields:
   default: []
   label: Tags
 pages:
-- _posts/2019-09-18-frustration.md
+- _posts/frustration.md
 - _posts/2019-09-17-makeup.md
 - _posts/running-downhill.md
 - _posts/2019-09-15-coconut-milk.md
