@@ -20,7 +20,7 @@ fields:
   default: []
   label: Tags
 pages:
-- _posts/fairytales.md
+- _posts/2019-09-22-fairytales.md
 - _posts/2019-09-21-difficult-people.md
 - _posts/you-get-out-what-you-put-in.md
 - _posts/2019-09-19-display-boards.md
