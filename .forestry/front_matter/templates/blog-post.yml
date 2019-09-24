@@ -20,7 +20,7 @@ fields:
   default: []
   label: Tags
 pages:
-- _posts/clothes-shopping.md
+- _posts/2019-09-24-clothes-shopping.md
 - _posts/2019-09-23-networking.md
 - _posts/2019-09-22-fairytales.md
 - _posts/2019-09-21-difficult-people.md
