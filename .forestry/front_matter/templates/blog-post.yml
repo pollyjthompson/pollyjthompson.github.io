@@ -20,7 +20,7 @@ fields:
   default: []
   label: Tags
 pages:
-- _posts/2019-09-29-podcasts.md
+- _posts/podcasts.md
 - _posts/lucky.md
 - _posts/being-selfish.md
 - _posts/clothes-shopping.md
